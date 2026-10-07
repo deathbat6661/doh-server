@@ -1,0 +1,7 @@
+{
+  "name": "doh-server",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node generate-blocklist.js"
+  }
+}
